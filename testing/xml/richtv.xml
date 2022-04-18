@@ -6,7 +6,7 @@ contents. For details, please see the documentation of XmlTvParser class.
 -->
 <tv>
     <channel id="com.example.android.sampletvinput.1" repeat-programs="true">
-        <display-name>Google-DeepLink</display-name>
+        <display-name>TestingTV</display-name>
         <display-number>1</display-number>
         <icon src="https://storage.googleapis.com/android-tv/images/google.png"/>
     </channel>
