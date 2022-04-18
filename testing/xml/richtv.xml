@@ -4,7 +4,7 @@ contents. For details, please see the documentation of XmlTvParser class.
  -->
 <tv>
 <channel id="com.example.android.sampletvinput.2-1" repeat-programs="true">
-<display-name>Google</display-name>
+<display-name>GITHUB</display-name>
 <display-number>2-1</display-number>
 <icon src="http://storage.googleapis.com/android-tv/images/google.png"/>
 </channel>
